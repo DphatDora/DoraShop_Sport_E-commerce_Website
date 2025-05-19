@@ -186,5 +186,8 @@ Contributions are welcome! Please feel free to submit a Pull Request or create a
 
 **Hà Đức Phát**  
 Ho Chi Minh City University of Technology and Education
-Contact: [hdphat123@gmail.com]
+
+## Contact
+
+[hdphat123@gmail.com]
 
